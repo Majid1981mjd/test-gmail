@@ -1,0 +1,5 @@
+{
+  "name": "Inboxious - Email Inbox Status Dashboard",
+  "description": "A responsive web application dashboard that displays the inbox placement results of test email campaigns across multiple email providers like Gmail, Outlook, and Yahoo.",
+  "requestFramePermissions": []
+}
